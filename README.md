@@ -72,7 +72,7 @@ Ideal for hospital administrators, data analysts, or healthcare decision-makers 
 ##  Screenshot
 
 
-_Add a screenshot of your dashboard here if possible._
+![Dashboard](Dashboard.png)
 
 
 ---
@@ -101,6 +101,7 @@ This project is shared for portfolio and learning purposes. Feel free to fork an
 Sayed Ibrahim
 
 Data Analyst | Power BI Developer
+
 
 
 
